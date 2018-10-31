@@ -1,4 +1,4 @@
 # HSTS 1.0 Known Hosts database for GNU Wget.
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-codenchips.my	0	0	1540991109	31556952
+codenchips.my	0	0	1540991847	31556952
